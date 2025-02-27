@@ -7,10 +7,10 @@ cgpa           =          3.15
 married        =          False
 
 #datatypes
-print(type(name))
-print(type(age))
-print(type(cgpa))
-print(type(married))
+print(type(name)) #str
+print(type(age)) #int
+print(type(cgpa)) #float
+print(type(married)) #bool
 
 #Assigning value to new variable
 cgpa2=cgpa

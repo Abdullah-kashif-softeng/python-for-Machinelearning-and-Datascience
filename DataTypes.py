@@ -25,5 +25,5 @@ print(list)#[1,55,3,4,5]
 #tuples are made to protect data
 #Tuples have fixed size
 
-#Typecast
+#Typecasting datatypes
 

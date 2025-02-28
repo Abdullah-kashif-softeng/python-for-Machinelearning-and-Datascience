@@ -6,11 +6,22 @@ age            =          21
 cgpa           =          3.15
 married        =          False
 
+#Allowed variable names:
+var="Allowed"
+_var1="Allowed"
+__var2="Allowed"
+VARIABLETHREE="Allowed"
+Variable_Four="Allowed"
+variable5="Allowed"
+_variable_6="Allowed"
+
+#Not Allowed Variable Names:
+1var="Not allowed"
+var-two="Not allowed"
+var three="Not allowed"
+
 #datatypes
-print(type(name)) #str
-print(type(age)) #int
-print(type(cgpa)) #float
-print(type(married)) #bool
+
 
 #Assigning value to new variable
 cgpa2=cgpa

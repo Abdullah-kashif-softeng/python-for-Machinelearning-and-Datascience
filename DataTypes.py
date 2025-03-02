@@ -4,6 +4,7 @@ cgpa=3.15
 married=False
 list=[1,2,3,4]
 tupple=("Hello",45,"World",66)
+complex_a=1+6j#Real and imaginary part
 dictionary={"name":"Abdullah","age":21,"Degree":"Software Engineering"}
 set={1,2,2,3,4,5}
 print(type(name)) #str
